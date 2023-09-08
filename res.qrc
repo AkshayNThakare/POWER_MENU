@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/power-on.png</file>
+        <file>icons/refresh.png</file>
+    </qresource>
+</RCC>
